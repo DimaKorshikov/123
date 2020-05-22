@@ -1,0 +1,16 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5c18764e-e31a-4fd2-9b8b-8312594f6088" name="root python3" url="http:///">
+        <fileTransfer host="84.38.181.108" port="22" privateKey="C:\Users\d_korshikov\Desktop\ssh\private.ppk" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="35569ec7-0eb5-4b41-8868-1b51a21d0850" name="root vevn test 84.38.181.108:22" url="http:///">
+        <fileTransfer host="84.38.181.108" port="22" privateKey="C:\Users\d_korshikov\Desktop\ssh\private.ppk" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
